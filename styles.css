@@ -19,13 +19,14 @@
 {
   display:flex;
   justify-content:space-between;
-  margin: 0 10%;
+  /* margin: 0 10%; */
   gap:50px;
   background-color:#3882F6;
   border-radius:10px;
   padding:25px;
   text-align:left;
   color:white;
+  flex:1;
 }
 
 .call {
